@@ -1,5 +1,5 @@
-## Đề tài
-Xây dựng của hàng sách trực tuyến trên nền tảng web
+# Đề tài
+## Xây dựng cửa hàng bán sách trực tuyến trên nền tảng web
 
 ## Thành viên nhóm:
 Phạm Thị Cẩm Hồng
