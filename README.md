@@ -1,7 +1,7 @@
 # Đề tài
 ## Xây dựng cửa hàng bán sách trực tuyến trên nền tảng web
 
-## Thành viên nhóm:
+## Thành viên nhóm
 - Phạm Thị Cẩm Hồng
 - Đặng Hoàng Anh
 - Nguyễn Trần Diễm Quỳnh
