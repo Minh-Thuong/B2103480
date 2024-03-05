@@ -2,10 +2,10 @@
 ## Xây dựng cửa hàng bán sách trực tuyến trên nền tảng web
 
 ## Thành viên nhóm:
-Phạm Thị Cẩm Hồng
-Đặng Hoàng Anh
-Nguyễn Trần Diễm Quỳnh
-Huỳnh Minh Thường
+- Phạm Thị Cẩm Hồng
+- Đặng Hoàng Anh
+- Nguyễn Trần Diễm Quỳnh
+- Huỳnh Minh Thường
 
 ## Mục tiêu chung
 - Về giao diện: cung cấp một giao diện thân thiện và dễ sử dụng, hài hòa.
