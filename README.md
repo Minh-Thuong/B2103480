@@ -1,6 +1,5 @@
 # Đề tài
-<h1>  Xây dựng cửa hàng bán sách trực tuyến trên nền tảng web</h1>
-## Xây dựng cửa hàng bán sách trực tuyến trên nền tảng web
+<h1 >  Xây dựng cửa hàng bán sách trực tuyến trên nền tảng web</h1>
 
 ## Thành viên nhóm
 - Phạm Thị Cẩm Hồng
